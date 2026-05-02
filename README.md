@@ -37,3 +37,9 @@ Try it instantly here: **[https://pdragonlabs.github.io/grok-thread-builder](htt
 6. Launch your scheduler with one click
 
 ## 📁 Project Structure
+
+grok-thread-builder/
+├── index.html                     # Main tool (single file)
+├── Grok Promo Thread Builder.png  # Screenshot
+├── README.md
+└── (optional) other files
