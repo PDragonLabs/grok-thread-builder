@@ -38,8 +38,9 @@ Try it instantly here: **[https://pdragonlabs.github.io/grok-thread-builder](htt
 
 ## 📁 Project Structure
 
-grok-thread-builder/
+'''grok-thread-builder/
 ├── index.html                     # Main tool (single file)
 ├── Grok Promo Thread Builder.png  # Screenshot
 ├── README.md
 └── (optional) other files
+'''
